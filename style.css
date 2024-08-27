@@ -1,25 +1,21 @@
 body{
 
     margin: 0px;
-    
+    font-family: "Share Tech Mono", monospace;
 }
 
 
 
 h1{
     font-size: 50px ;
-    font-family: "Share Tech Mono", monospace;
+    
 }
 
 #h2-top{
 
     margin-top: 80px;
     margin-bottom: -30px;
-    font-family: "Share Tech Mono", monospace;
-}
-h2,h3,h4{
-    font-family: "Share Tech Mono", monospace;
-
+    
 }
 
 .Name{
@@ -28,7 +24,6 @@ h2,h3,h4{
   -webkit-text-fill-color: transparent;
 }
 .Font{
-    font-family: "Share Tech Mono", monospace;
     text-align: left;
 }
 .half-width{
@@ -62,7 +57,6 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: bold;
-    font-family:"Share Tech Mono", monospace;
     box-shadow: #ff8000;
 }
 
@@ -80,7 +74,6 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: bold;
-    font-family:"Share Tech Mono", monospace;
     box-shadow: #ff8000;
 }
 
